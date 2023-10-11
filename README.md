@@ -1,6 +1,7 @@
 # Module_5_Challenge
 Module 5 Challenge
 Got help from a tutor.  Location is pymaceuticals_starter-Copy1.ipynb.
+
 Three observations: 
 1.  Capomulin and Ramicane were the most effective medications to decrease the tumor voume size in mice.
 2.  Looking at the line plot of tumor volume vs time point for a single mouse treated with Capomulin, it appears as though
